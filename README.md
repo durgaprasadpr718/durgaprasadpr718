@@ -1,42 +1,49 @@
 <img width="1536" height="1024" alt="intro_thumbline" src="https://github.com/user-attachments/assets/279f64de-6fff-4765-8bd3-095de5276fff" />
 
+# Hi, I'm Choudhury Durga Prasad
 
-# Hi, I'm Durga Prasad
+I build data platforms that people can trust.
 
-I build data pipelines that help teams trust their data and make better decisions.
+I'm a Senior Data Engineer with 5+ years of experience building cloud data platforms across AWS, Azure, and Google Cloud. Most of my work is turning messy operational data into reliable datasets for analytics, forecasting, and machine learning using Python, SQL, PySpark, Snowflake, Databricks, and dbt.
 
-I'm a Senior Data Engineer with experience building ETL pipelines, data models, and cloud data platforms using Python, SQL, PySpark, Snowflake, Databricks, dbt, Apache Airflow, AWS, Azure, and Google Cloud.
+## What I'm building
 
-## What I'm working on
+- Production-style data engineering projects with synthetic datasets
+- Snowflake and dbt transformation patterns
+- Databricks and PySpark performance optimization
+- End-to-end cloud pipelines on AWS, Azure, and GCP
 
-- Building production-style data engineering projects
-- Improving Spark and SQL performance
-- Learning more about data engineering system design
-
-## Tech Stack
-
-- Python
-- SQL
-- PySpark
-- Apache Spark
-- Snowflake
-- Databricks
-- dbt
-- Apache Airflow
-- AWS
-- Azure
-- Google Cloud
-
-## Featured Projects
+## Featured projects
 
 ### Which shades should we stop reordering?
 
-A business-focused SQL analysis that calculates repurchase and return rates, applies cohort maturity filters, and turns the findings into an inventory recommendation.
+A business-focused analysis that calculates repurchase and return rates, applies cohort maturity filters, and turns the findings into an inventory recommendation.
 
-### E-commerce Data Pipeline
+### Flight schedule forecasting pipeline
 
-A cloud ETL pipeline built with Python and SQL that processes retail data from ingestion through reporting.
+A Snowflake and dbt project inspired by my work on airline analytics, showing how layered models, incremental processing, and data quality tests support forecasting-ready datasets.
 
-## Connect with me
+### Retail streaming pipeline
+
+A GCP project using Pub/Sub, Dataflow, and BigQuery to demonstrate near real-time analytics and reconciliation.
+
+## What I enjoy working on
+
+- Data modeling
+- Pipeline performance tuning
+- Data quality and reconciliation
+- Cloud migration projects
+- Building systems that reduce manual work
+
+## Certifications
+
+- Google Cloud Professional Data Engineer
+- AWS Certified Data Engineer – Associate
+- Microsoft Azure Data Engineer Associate
+- Microsoft Fabric Analytics Engineer
+- Microsoft DevOps Engineer Expert
+
+## Let's connect
 
 - LinkedIn: https://www.linkedin.com/in/choudhury-durga-prasad-75022314b
+- Email: durgaprasadchowdury@gmail.com
