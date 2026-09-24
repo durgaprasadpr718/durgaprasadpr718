@@ -39,4 +39,4 @@ A cloud ETL pipeline built with Python and SQL that processes retail data from i
 
 ## Connect with me
 
-- LinkedIn: linkedin.com/in/durga-prasad-choudhury-75022314b
+- LinkedIn: https://www.linkedin.com/in/choudhury-durga-prasad-75022314b
